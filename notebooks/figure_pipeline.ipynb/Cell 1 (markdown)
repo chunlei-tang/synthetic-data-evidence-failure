@@ -1,2 +1,3 @@
 # Synthetic Data Evaluation Pipeline (Demonstration)
-Minimal reproducible workflow illustrating distribution, structural, and evidence-level evaluation.
+
+> This notebook demonstrates the evaluation logic only and does not contain real patient data.
